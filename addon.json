@@ -1,0 +1,11 @@
+{
+	"title"		:	"TTT Insufferable Plaza",
+	"type"		:	"map",
+	"tags"		:	[ "roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
