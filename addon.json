@@ -1,11 +1,1 @@
-{
-	"title"		:	"TTT Insufferable Plaza",
-	"type"		:	"map",
-	"tags"		:	[ "roleplay" ],
-	"ignore"	:
-	[
-		"*.psd",
-		"*.vcproj",
-		"*.svn*"
-	]
-}
+{"description":null,"type":"map","tags":["roleplay"],"ignore":["*.psd","*.vcproj","*.svn*"],"title":"TTT Insufferable Plaza","workshopid":1755132591,"default_changelog":null,"icon":"addon_thumbnail.jpg"}
